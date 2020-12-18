@@ -9,6 +9,9 @@ html, body {
   height: 100%;
   overflow: hidden;
 }
+a {
+  color: #fff;
+}
 
 .content {
   height: 100%;
